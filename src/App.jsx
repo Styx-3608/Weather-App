@@ -33,7 +33,7 @@ const App = () => {
 
   return (
     <main>
-      <div className='h-screen w-screen flex justify-center items-center bg-[url("https://images.unsplash.com/photo-1696355360215-b7bacb6ed736?q=80&w=2176&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D")] bg-cover bg-center'>
+      <div className='h-screen w-screen flex justify-center items-center bg-[url("https://images.unsplash.com/photo-1566996694954-90b052c413c4?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D")] bg-cover bg-center'>
         <div className="h-auto w-[350px] flex flex-col justify-start items-center p-6 bg-transparent shadow-black backdrop-blur-xs bg-opacity-80 rounded-lg shadow-lg text-center">
           <h2 className="text-2xl font-bold text-blue-700 mb-4">🌤️ Weather Forecast</h2>
 
